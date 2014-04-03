@@ -1,1 +1,0 @@
-O Open Web Application Security Project (OWASP) é um projeto open source voltado para promover a segurança de aplicações no uso por empresas, entidades educacionais e pessoas em todo o mundo. Todos os membros são voluntários que dedicam seu tempo e energia para a organização.
